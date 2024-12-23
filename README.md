@@ -38,7 +38,7 @@ I'm a passionate 24-year-old Computer Science student in my third year, with a d
 - **Android App**: A platform similar to Facebook, built with Android Studio and integrated with a Node.js and MongoDB server for the backend.
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillel0&layout=compact&include_forks=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillel0&layout=compact)
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillel-rosenthal-958075232)
