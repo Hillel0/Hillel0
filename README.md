@@ -1,6 +1,6 @@
 # Hi, I'm Hillel Rosenthal! 👋
 
-I'm a passionate 24-year-old Computer Science student in my third year, with a deep love for algorithms and data structures and a knack for creating innovative projects. My journey in tech has been fueled by curiosity and a drive to solve complex problems with elegant solutions.
+I'm a passionate 25-year-old Computer Science student in my third year, with a deep love for algorithms and data structures and a knack for creating innovative projects. My journey in tech has been fueled by curiosity and a drive to solve complex problems with elegant solutions.
 
 ## 🚀 About Me
 - 🔭 I'm currently working on full-stack web applications with a focus on implementing efficient algorithms
